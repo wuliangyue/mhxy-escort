@@ -1,0 +1,1076 @@
+{
+    "长安城": {
+        "大唐国境-驿站": {
+            "XY": [
+                280,
+                45
+            ],
+            "action": {
+                "type": 1,
+                "template": "yizhan.png",
+                "mask": "yizhan_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        },
+        "长安酒店": {
+            "XY": [
+                464,
+                168
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    634,
+                    250
+                ]
+            }
+        },
+        "大雁塔一层": {
+            "XY": [
+                446,
+                244
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    613,
+                    261
+                ]
+            }
+        },
+        "锦绣饰品店": {
+            "XY": [
+                388,
+                14
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    501,
+                    330
+                ]
+            }
+        },
+        "南北杂货店": {
+            "XY": [
+                534,
+                134
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    725,
+                    329
+                ]
+            }
+        },
+
+        "帮派": {
+            "XY": [
+                388,
+                266
+            ],
+            "action": {
+                "type": 1,
+                "template": "bangpaizhuguan.png",
+                "mask": "bangpaizhuguan_mask.png",
+                "button": "huibangpai.png"
+            }
+        },
+        "秦琼府": {
+            "XY": [
+                89,
+                78
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    380,
+                    299
+                ]
+            }
+        },
+        "化生寺": {
+            "XY": [
+                504,
+                272
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    722,
+                    44
+                ]
+            }
+        },
+        "大唐国境": {
+            "XY": [
+                10,
+                3
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    22,
+                    710
+                ]
+            }
+        },
+        "江南野外": {
+            "XY": [
+                543,
+                8
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    981,
+                    551
+                ]
+            }
+        },
+        "大唐官府": {
+            "XY": [
+                310,
+                273
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    357,
+                    44
+                ]
+            }
+        }
+    },
+    "江南野外": {
+        "建邺城": {
+            "XY": [
+                148,
+                54
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    938,
+                    349
+                ]
+            }
+        }
+    },
+    "建邺城": {
+        "东海湾": {
+            "XY": [
+                278,
+                34
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    942,
+                    593
+                ]
+            }
+        },
+        "李记布庄": {
+            "XY": [
+                170,
+                33
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    565,
+                    291
+                ]
+            }
+        },
+        "东升货栈": {
+            "XY": [
+                117,
+                128
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    475,
+                    256
+                ]
+            }
+        }
+    },
+    "东海湾": {
+        "龙宫": {
+            "XY": [
+                105,
+                89
+            ],
+            "action": {
+                "type": 1,
+                "template": "laoxia.png",
+                "mask": "laoxia_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        },
+        "傲来国": {
+            "XY": [
+                59,
+                24
+            ],
+            "action": {
+                "type": 1,
+                "template": "donghaichuanfu1.png",
+                "mask": "mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        }
+    },
+    "傲来国": {
+        "女儿村": {
+            "XY": [
+                8,
+                140
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    94,
+                    156
+                ]
+            }
+        },
+        "花果山": {
+            "XY": [
+                214,
+                141
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    841,
+                    83
+                ]
+            }
+        },
+        "东海湾": {
+            "XY": [
+                170,
+                17
+            ],
+            "action": {
+                "type": 1,
+                "template": "yizhan.png",
+                "mask": "yizhan_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        }
+    },
+    "女儿村": {
+        "女儿村村长家": {
+            "XY": [
+                16,
+                123
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    240,
+                    229
+                ]
+            }
+        }
+    },
+    "花果山": {
+        "北俱芦洲": {
+            "XY": [
+                25,
+                102
+            ],
+            "action": {
+                "type": 1,
+                "xy": [
+                    361,
+                    344
+                ]
+            }
+        },
+        "海底迷宫一层": {
+            "XY": [
+                97,
+                9
+            ],
+            "action": {
+                "type": 1,
+                "template": "mahou.png",
+                "mask": "mahou_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        }
+    },
+    "北俱芦洲": {
+        "长寿郊外": {
+            "XY": [
+                194,
+                9
+            ],
+            "action": {
+                "type": 1,
+                "xy": [
+                    361,
+                    344
+                ]
+            }
+        },
+        "长安城": {
+            "XY": [
+                51,
+                120
+            ],
+            "action": {
+                "type": 1,
+                "template": "yizhan.png",
+                "mask": "yizhan_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        },
+        "女娲神迹": {
+            "XY": [
+                21,
+                156
+            ],
+            "action": {
+                "type": 1,
+                "template": "chuansongnvwa.png",
+                "mask": "chuansongnvwa_mask.png",
+                "button": "other.png",
+                "button2": "other2.png"
+            }
+        }
+    },
+    "长寿郊外": {
+        "天宫": {
+            "XY": [
+                17,
+                64
+            ],
+            "action": {
+                "type": 1,
+                "template": "tianjiang.png",
+                "mask": "tianjiang_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        },
+        "长寿村": {
+            "XY": [
+                156,
+                159
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    643,
+                    62
+                ]
+            }
+        },
+        "北俱芦洲": {
+            "XY": [
+                55,
+                66
+            ],
+            "action": {
+                "type": 1,
+                "template": "yizhan.png",
+                "mask": "yizhan_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        }
+    },
+    "天宫": {
+        "凌霄宝殿": {
+            "XY": [
+                151,
+                59
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    370,
+                    234
+                ]
+            }
+        }
+    },
+    "长寿村": {
+        "方寸山": {
+            "XY": [
+                107,
+                202
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    693,
+                    53
+                ]
+            }
+        },
+        "长寿村酒馆": {
+            "XY": [
+                111,
+                145
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    447,
+                    294
+                ]
+            }
+        },
+        "长寿村当铺": {
+            "XY": [
+                17,
+                125
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    372,
+                    285
+                ]
+            }
+        },
+        "长寿郊外": {
+            "XY": [
+                140,
+                7
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    900,
+                    670
+                ]
+            }
+        }
+    },
+    "方寸山": {
+        "灵台宫": {
+            "XY": [
+                128,
+                136
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    700,
+                    182
+                ]
+            }
+        }
+    },
+    "龙宫": {
+        "水晶宫": {
+            "XY": [
+                112,
+                72
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    634,
+                    430
+                ]
+            }
+        },
+        "海底迷宫一层": {
+            "XY": [
+                202,
+                105
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    923,
+                    129
+                ]
+            }
+        }
+    },
+    "化生寺": {
+        "藏经阁": {
+            "XY": [
+                91,
+                55
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    610,
+                    324
+                ]
+            }
+        }
+    },
+    "大唐国境": {
+        "普陀山": {
+            "XY": [
+                226,
+                61
+            ],
+            "action": {
+                "type": 1,
+                "template": "putuo.png",
+                "mask": "putuo_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        },
+        "大唐境外": {
+            "XY": [
+                10,
+                79
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    38,
+                    376
+                ]
+            },
+            "weight": 2
+        },
+        "地府": {
+            "XY": [
+                48,
+                325
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    593,
+                    74
+                ]
+            },
+            "weight": 2
+        }
+    },
+    "普陀山": {
+        "潮音洞": {
+            "XY": [
+                8,
+                60
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    123,
+                    109
+                ]
+            }
+        }
+    },
+    "地府": {
+        "森罗殿": {
+            "XY": [
+                33,
+                69
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    365,
+                    334
+                ]
+            }
+        },
+        "轮回司": {
+            "XY": [
+                105,
+                50
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    500,
+                    167
+                ]
+            }
+        },
+        "地狱迷宫一层": {
+            "XY": [
+                32,
+                109
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    589,
+                    184
+                ]
+            }
+        },
+        "大唐国境": {
+            "XY": [
+                151,
+                10
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    981,
+                    551
+                ]
+            }
+        }
+    },
+    "大唐境外": {
+        "长寿郊外": {
+            "XY": [
+                47,
+                14
+            ],
+            "action": {
+                "type": 1,
+                "template": "nanbuzhanzhoutudi.png",
+                "mask": "nanbuzhanzhoutudi_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        },
+        "墨家村": {
+            "XY": [
+                231,
+                111
+            ],
+            "action": {
+                "type": 1,
+                "template": "mojiacun.png",
+                "mask": "mojiacun_mask.png",
+                "button": "mojia_button.png"
+            }
+        },
+        "魔王寨": {
+            "XY": [
+                58,
+                115
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    435,
+                    57
+                ]
+            }
+        },
+        "五庄观": {
+            "XY": [
+                637,
+                76
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    964,
+                    252
+                ]
+            }
+        },
+        "盘丝岭": {
+            "XY": [
+                529,
+                113
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    232,
+                    26
+                ]
+            }
+        },
+        "狮驼岭": {
+            "XY": [
+                5,
+                55
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    26,
+                    588
+                ]
+            }
+        }
+    },
+    "狮驼岭": {
+        "大象洞": {
+            "XY": [
+                27,
+                82
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    608,
+                    114
+                ]
+            }
+        },
+        "老雕洞": {
+            "XY": [
+                12,
+                42
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    421,
+                    225
+                ]
+            }
+        },
+        "狮王洞": {
+            "XY": [
+                115,
+                23
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    728,
+                    169
+                ]
+            }
+        }
+    },
+    "盘丝岭": {
+        "盘丝洞": {
+            "XY": [
+                187,
+                126
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    816,
+                    185
+                ]
+            }
+        },
+        "大唐境外": {
+            "XY": [
+                187,
+                11
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    850,
+                    690
+                ]
+            }
+        }
+    },
+    "五庄观": {
+        "乾坤殿": {
+            "XY": [
+                56,
+                35
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    674,
+                    328
+                ]
+            }
+        }
+    },
+    "长风镖局": {
+        "长安城": {
+            "XY": [
+                126,
+                948
+            ],
+            "action": {
+                "type": 3,
+                "xy": [
+                    [
+                        400,
+                        700
+                    ],
+                    [
+                        400,
+                        700
+                    ]
+                ]
+            }
+        }
+    },
+    "大唐官府": {
+        "程咬金府": {
+            "XY": [
+                76,
+                46
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    484,
+                    291
+                ]
+            }
+        }
+    },
+    "魔王寨": {
+        "魔王居": {
+            "XY": [
+                91,
+                70
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    654,
+                    254
+                ]
+            }
+        }
+    },
+    "森罗殿": {
+        "地藏王府": {
+            "XY": [
+                91,
+                70
+            ],
+            "action": {
+                "type": 3,
+                "xy": [
+                    [
+                        410,
+                        43
+                    ],
+                    [
+                        410,
+                        43
+                    ]
+                ]
+            }
+        }
+    },
+    "大唐国境-驿站": {
+        "大唐境外": {
+            "XY": [
+                10,
+                79
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    38,
+                    376
+                ]
+            }
+        },
+        "地府": {
+            "XY": [
+                48,
+                325
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    593,
+                    74
+                ]
+            }
+        }
+    },
+    "帮派": {
+        "无名城": {
+            "XY": [
+                202,
+                114
+            ],
+            "action": {
+                "type": 1,
+                "template": "bangpai_che_fu.png",
+                "mask": "bangpai_che_fu_mask.png",
+                "button": "jinku.png"
+            }
+        },
+        "长安城": {
+            "XY": [
+                202,
+                114
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    774,
+                    648
+                ]
+            }
+        }
+    },
+    "南北杂货店": {
+        "长安城": {
+            "XY": [
+                202,
+                114
+            ],
+            "action": {
+                "type": 3,
+                "xy": [
+                    [100, 648]
+                ]
+            }
+        }
+    },
+    "无名城": {
+        "帮派": {
+            "XY": [
+                202,
+                114
+            ],
+            "action": {
+                "type": 1,
+                "template": "huangsejiguanren.png",
+                "mask": null,
+                "button": "huilukou.png"
+            }
+        }
+    },
+    "轮回司": {
+        "长安城": {
+            "XY": [
+                202,
+                114
+            ],
+            "action": {
+                "type": 1,
+                "template": "baiwuchang.png",
+                "mask": null,
+                "button": "b_haoa.png"
+            }
+        },
+        "地府": {
+            "XY": [
+                91,
+                70
+            ],
+            "action": {
+                "type": 3,
+                "xy": [
+                    [
+                        503,
+                        606
+                    ]
+                ]
+            }
+        }
+    },
+    "宝象国": {
+        "麒麟山": {
+            "XY": [
+                5,
+                4
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    22,
+                    710
+                ]
+            }
+        }
+    },
+    "朱紫国": {
+        "麒麟山": {
+            "XY": [
+                5,
+                111
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    100,
+                    150
+                ]
+            }
+        },
+        "大唐境外": {
+            "XY": [
+                10,
+                10
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    22,
+                    710
+                ]
+            }
+        }
+    },
+    "麒麟山": {
+        "朱紫国": {
+            "XY": [
+                183,
+                6
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    950,
+                    650
+                ]
+            }
+        }
+    },
+    "西梁女国": {
+        "朱紫国": {
+            "XY": [
+                24,
+                54
+            ],
+            "action": {
+                "type": 1,
+                "template": "yizhan.png",
+                "mask": "yizhan_mask.png",
+                "button": "chuansongtanchuang.png"
+            }
+        }
+    },
+    "地狱迷宫一层": {
+        "地狱迷宫二层": {
+            "XY": [
+                13,
+                11
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    49,
+                    655
+                ]
+            }
+        }
+    },
+    "地狱迷宫二层": {
+        "地狱迷宫三层": {
+            "XY": [
+                114,
+                38
+            ],
+            "action": {
+                "type": 0,
+                "xy": [
+                    954,
+                    341
+                ]
+            }
+        }
+    }
+
+}

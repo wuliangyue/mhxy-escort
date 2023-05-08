@@ -1,0 +1,132 @@
+{
+  "mouse_template": {
+    "name": "mouse.png",
+    "directory": "mouse",
+    "desc":"鼠标模板图"
+  },
+  "mouse_status": {
+    "name": "mouse_status.txt",
+    "directory": "mouse",
+    "desc":"鼠标状态记录"
+  },
+  "fight_template": {
+    "name": "fight_template.png",
+    "directory": "fight",
+    "desc":"战斗状态模板图"
+  },
+  "hover_normal": {
+    "name": "hover_normal.png",
+    "directory": "hover",
+    "desc":"战斗弹窗类型1"
+  },
+  "hover_reward": {
+    "name": "hover_reward.png",
+    "directory": "hover",
+    "desc":"战斗弹窗类型2"
+  },
+  "hover_second": {
+    "name": "hover_second.png",
+    "directory": "hover",
+    "desc":"战斗弹窗类型3"
+  },
+  "hover_second_mask": {
+    "name": "hover_second_mask.png",
+    "directory": "hover",
+    "desc":"战斗弹窗类型3的掩码图"
+  },
+    "location": {
+    "name": "location.json",
+    "directory": "map",
+    "desc":"地图信息，每个地图的出入口和进出方式"
+  },
+  "map_flag": {
+    "name": "map_flag.png",
+    "directory": "map",
+    "desc":"小地图的标识图"
+  },
+  "proxies": {
+    "name": "proxies.json",
+    "directory": "map",
+    "desc":"小地图比例尺"
+  },
+  "npc": {
+    "name": "npc.json",
+    "directory": "npc",
+    "desc":"npc信息"
+  },
+  "map_exit_flag": {
+    "name": "map_exit_flag.png",
+    "directory": "map",
+    "desc":"出口"
+  },
+  "map_exit_flag_2": {
+    "name": "map_exit_flag.png",
+    "directory": "map",
+    "desc":"出口"
+  },
+  "yes_i_will_go": {
+    "name": "yes_i_will_go.png",
+    "directory": "buttons",
+    "desc":"我愿意"
+  },
+    "close_button_x": {
+    "name": "close_button_x.png",
+    "directory": "buttons",
+    "desc":"关闭"
+  },
+  "props_flag": {
+    "name": "props.png",
+    "directory": "props",
+    "desc":"道具"
+  },
+  "props": {
+    "name": "props.json",
+    "directory": "props",
+    "desc":"道具集合"
+  },
+  "props_to_player": {
+    "name": "props_to_player.png",
+    "directory": "props",
+    "desc":"玩家给予面板"
+  },
+  "props_to_npc": {
+    "name": "props_to_npc.png",
+    "directory": "props",
+    "desc":"npc给予面板"
+  },
+  "task_flag": {
+    "name": "task_flag.png",
+    "directory": "task",
+    "desc":"task标识"
+  },
+  "escort_4": {
+    "name": "level_4.png",
+    "directory": "task",
+    "desc":"四级镖"
+  },
+  "reserves": {
+    "name": "reserves.png",
+    "directory": "task",
+    "desc":"储备金"
+  },
+  "confirm_give": {
+    "name": "button_to_npc.png",
+    "directory": "props",
+    "desc":"确定给与"
+  },
+  "b_j_flag": {
+    "name": "biaoju_flag.png",
+    "directory": "move",
+    "desc":"flag"
+  },
+  "idiom_confirm": {
+    "name": "idiom_confirm.png",
+    "directory": "buttons",
+    "desc":""
+  },
+    "idiom_reset": {
+    "name": "idiom_reset.png",
+    "directory": "buttons",
+    "desc":""
+  }
+}

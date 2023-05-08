@@ -1,0 +1,175 @@
+{
+    "程咬金": {
+        "location": "程咬金府",
+        "template": "chen_yao_jin.png",
+        "location_flag": ["cheng_flag_0.png"]
+    },
+    "空度禅师": {
+        "location": "藏经阁",
+        "template": "kong_du_chan_shi.png",
+        "location_flag": []
+    },
+    "秦琼": {
+        "location": "秦琼府",
+        "template": "qing_qiong.png",
+        "location_flag": ["qing_qiong_flag_0.png"]
+    },
+    "孙婆婆": {
+        "location": "女儿村村长家",
+        "template": "sun_po_po.png",
+        "location_flag": []
+    },
+    "杨戬": {
+        "location": "凌霄宝殿",
+        "template": "yang_jian.png",
+        "location_flag": ["yang_jian_flag_0.png"],
+        "mask": "yang_jian_mask.png"
+
+    },
+    "李靖": {
+        "location": "凌霄宝殿",
+        "template": "lijing.png",
+        "location_flag": ["yang_jian_flag_0.png","lijing_flag_0.png","lijing_flag_1.png"]
+    },
+    "哪吒": {
+        "location": "凌霄宝殿"
+    },
+    "镇元大仙": {
+        "location": "乾坤殿",
+        "template": "zhen_yuan_da_xian.png",
+        "location_flag": []
+    },
+    "花十娘": {
+        "location": "盘丝洞",
+        "template": "hua_shi_niang.png",
+        "location_flag": ["huashiniang_flag_0.png"],
+        "mask": "hua_shi_niang_mask.png"
+    },
+    "冰冰姑娘": {
+        "location": "盘丝洞",
+        "template": "bing_bing_gu_niang.png",
+        "location_flag": ["bingbing_flag_0.png","bingbing_flag_1.png"]
+
+    },
+    "二大王": {
+        "location": "大象洞",
+        "template": "er_da_wang.png",
+        "location_flag": []
+    },
+    "观音姐姐": {
+        "location": "潮音洞",
+        "template": "guan_ying.png",
+        "location_flag": ["guan_ying_flag_0.png","guan_ying_flag_1.png"],
+        "mask": "guan_ying_mask.png"
+
+    },
+    "地藏王": {
+        "location": "地藏王府",
+        "template": "dizangwang.png",
+        "location_flag": []
+    },
+    "菩提祖师": {
+        "location": "灵台宫",
+        "template": "puti.png",
+        "location_flag": ["puti_flag_0.png","puti_flag_1.png"]
+    },
+    "三大王": {
+        "location": "老雕洞",
+        "template": "sandawang.png",
+        "location_flag": ["sandawang_flag_0.png"],
+        "mask": "sandawang_mask.png"
+
+    },
+    "大大王": {
+        "location": "狮王洞",
+        "template": "dadawang.png",
+        "location_flag": []
+    },
+    "东海龙王": {
+        "location": "水晶宫",
+        "template": "donghailongwang.png",
+        "location_flag": []
+    },
+    "牛魔王": {
+        "location": "魔王居",
+        "template": "niumowang.png",
+        "location_flag": []
+    },
+    "郑镖头": {
+        "location": "长风镖局",
+        "template": "zhengbiaotou.png",
+        "location_flag": ["zhengbiaotou.png"],
+        "mask": "zhengbiaotou_mask.png"
+    },
+    "地府商人": {
+        "location": "地府",
+        "template": "di_fu_shang_ren.png",
+        "location_flag": [],
+        "mask": "di_fu_shang_ren_mask.png",
+        "xy":[90, 15]
+    },
+    "地府货商": {
+        "location": "地府",
+        "template": "difuhuoshang.png",
+        "location_flag": [],
+        "mask": "difuhuoshang_mask.png",
+        "xy":[64, 52]
+    },
+    "长安超级巫医": {
+        "location": "长安城",
+        "template": "chaojiwuyi.png",
+        "location_flag": [],
+        "mask": "chaojiwuyi_mask.png",
+        "xy":[525, 185]
+    },
+    "北俱货商": {
+        "location": "北俱芦洲",
+        "template": "beijuhuoshang.png",
+        "location_flag": [],
+        "mask": "beijuhuoshang_mask.png",
+        "xy":[160, 122]
+    },
+    "北俱商人": {
+        "location": "北俱芦洲",
+        "template": "beijushangren.png",
+        "location_flag": [],
+        "mask": "beijushangren_mask.png",
+        "xy":[165, 35]
+    },
+    "白虎堂总管": {
+        "location": "无名城",
+        "template": "baihutangzongguan.png",
+        "location_flag": ["baihutangzongguan_flag.png"],
+        "mask": "baihutongzongguan_mask.png"
+    },
+    "宝象国仓库管理": {
+        "location": "宝象国",
+        "template": "baoxiang_cangkuguanli.png",
+        "location_flag": []
+    },
+    "宝石商人": {
+        "location": "长安城",
+        "template": "watu_baoshishangren.png",
+        "location_flag": []
+    },
+    "钟馗": {
+        "location": "地府",
+        "template": "zhong_kui.png",
+        "location_flag": [],
+        "mask": "zhong_kui_mask.png",
+        "xy":[48, 48]
+    },
+    "黑无常": {
+        "location": "轮回司",
+        "template": "hei_wu_chang.png",
+        "location_flag": [],
+        "mask": "hei_wu_chang_mask.png"
+    },
+    "店小二":{
+        "location": "长安酒店",
+        "template": "dian_xiao_er.png",
+        "location_flag": ["qing_qiong_flag_0.png"],
+        "mask": "dian_xiao_er_mask.png"
+    }
+}
+

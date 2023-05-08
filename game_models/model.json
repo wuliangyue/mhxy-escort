@@ -1,0 +1,31 @@
+{"four_people": {
+    "name": "mhxy.h5",
+    "directory": "model",
+    "desc":"小人模型"
+  },
+  "role": {
+    "name": "role.pt",
+    "directory": "model",
+    "desc":"脸的模型"
+  },
+  "word": {
+    "name": "word.pt",
+    "directory": "model",
+    "desc":"文字模型"
+  },
+  "siamese":{
+    "name": "word_compare.pth",
+    "directory": "model",
+    "desc":"孪生神经网络"
+},
+  "simsun":{
+    "name": "simsun.ttc",
+    "directory": "model",
+    "desc":"字体"
+},
+  "fsong":{
+    "name": "fsong.ttf",
+    "directory": "model",
+    "desc":"字体"
+}
+}
